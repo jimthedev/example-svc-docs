@@ -1,7 +1,8 @@
 - [Overview](./overview.md)
   - [Getting Started](./getting-started.md)
   - [Installation](./osx/installation.md)
-  - [Lower installation](./osx/installation.md#user-content-subheader)
+    - [Upper](./osx/installation.md#user-content-subheader)
+    - [Lower](./osx/installation.md#user-content-subsubheader)
 - [Testing](./testing-idk.md)
   - [Me myself and I](./yeah/me.md)
 - Non Link
